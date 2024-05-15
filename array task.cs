@@ -42,7 +42,7 @@ namespace ConsoleApp3
                 }
             }
             double average = sum / count;
-            Console.WriteLine($"qiymetlerin ededi ortasi - {average} dur");
+            Console.WriteLine($"average is {average}");
 
 
 
