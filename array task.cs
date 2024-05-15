@@ -12,7 +12,7 @@ namespace ConsoleApp3
             //int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 97, 10, 11, 12, 13, 14, };
             //int max = numbers[0];
 
-            //for (int i = 1; i < numbers.Length; i += 2)
+            //for (int i = 1; i < numbers.Length; i++;)
             //{
             //    if (numbers[i] > max)
             //    {
